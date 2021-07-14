@@ -3,5 +3,6 @@ Hello World!
 Good bye!
 456
 And Good morning! 
-Another Line from user1
+
+Line from user2
 Line from user1
