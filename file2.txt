@@ -1,2 +1,3 @@
 Good Bay
 Some other line
+Line from user2
