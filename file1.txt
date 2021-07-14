@@ -6,3 +6,4 @@ And Good morning!
 Line from user2
 Line from user1
 Some new feature
+Line from user1 lesson about rebase
